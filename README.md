@@ -84,3 +84,7 @@ cd RandomBite
 - `App.js`: Entry point for the app.
 
 ---
+
+## Updates
+
+Jan 5, 2025 Change repo to public & revoke built-in API key
